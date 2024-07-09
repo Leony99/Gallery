@@ -1,0 +1,1 @@
+- This is not a design project, is just to train some skills(Bootstrap, JQuery, Webpack) and uderstand a web project architecture.
