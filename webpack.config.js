@@ -17,12 +17,12 @@ module.exports = {
         }),
         new copyPlugin({
             patterns: [
-                {
+                {   //Copy html files
                     context: 'src',
                     from: '**/*.html',
                     noErrorOnMissing: true
                 },
-                {
+                {   //Copy assets
                     from: './src/assets', 
                     to: './assets',
                     noErrorOnMissing: true
